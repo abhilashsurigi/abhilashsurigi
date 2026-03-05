@@ -58,18 +58,6 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhilashsurigi&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashsurigi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -80,22 +68,6 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilashsurigi&theme=tokyo-night"/>
-
----
-
-# 🏆 Achievements
-
-🏆 Hackathon Winner – Malla Reddy College
-🥇 Top 15 Finalist – BITS Hyderabad Hackathon
-🎤 Hackathon Organizer – NGIT
-🌍 Digital Head – Street Cause NGIT
-
----
-
-⭐️ *Building intelligent systems that combine machine learning, LLMs, and scalable software engineering.*
 
 
 <!--
