@@ -5,9 +5,6 @@
 Building intelligent systems using Machine Learning, LLMs, and scalable backend architectures.
 </p>
 
----
-
-
 <p align="center">
 
 <a href="https://linkedin.com/in/surigi-abhilash-goud">
@@ -44,7 +41,6 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 | 🧠 Fake Review Detection | Built an NLP-based classification system using fine-tuned BERT to detect fake product reviews. Achieved 94% validation accuracy and deployed the model via a REST API with a web interface for real-time predictions. | PyTorch, BERT, Flask, MERN |
 | 🌐 Network Anomaly Detection | Developed a network intrusion detection system using Random Forest trained on the CICIDS 2017 dataset. Implemented preprocessing, feature engineering, and real-time traffic analysis through an API. | Flask, Scikit-learn, React |
 
----
 
 
 
