@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Surigi</h1>
-<h3 align="center">AI/ML Engineer | LLM Systems | Agentic AI | Full Stack Developer</h3>
+<h3 align="center">AI/ML Engineer | LLM Systems | Agentic AI | </h3>
 
 <p align="center">
 Building intelligent systems using Machine Learning, LLMs, and scalable backend architectures.
