@@ -21,8 +21,6 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 </p>
 
----
-
 ## Technical Arsenal
 
 | **Domain** | **Stack** |
