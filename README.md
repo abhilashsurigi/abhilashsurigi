@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Surigi</h1>
-<h3 align="center">AI/ML Engineer | LLM Systems | Agentic AI | </h3>
+<h3 align="center">AI/ML Engineer | LLM Systems | Agentic AI </h3>
 
 <p align="center">
 Building intelligent systems using Machine Learning, LLMs, and scalable backend architectures.
@@ -26,88 +26,35 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 ---
 
-# 🚀 About Me
+## Technical Arsenal
 
-* 🎓 CSE (AI/ML) Student at **Neil Gogte Institute of Technology**
-* 🤖 Passionate about **AI Systems, LLMs, and Intelligent Automation**
-* 🧠 Interested in **Agentic AI, RAG Systems, and NLP**
-* 🏆 Hackathon Winner & Top 15 Finalist at BITS Hyderabad
-* 📊 Completed **Tata Group Data Analytics Job Simulation**
-
----
-
-# 🧠 Technical Arsenal
-
-### 💻 Programming
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
-![C](https://img.shields.io/badge/C-grey?logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
 
----
-
-### 🤖 Machine Learning / AI
-
+### AI / Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?logo=scikitlearn)
 ![NLP](https://img.shields.io/badge/NLP-green)
 
----
-
-### ⚙️ Frameworks & Tools
-
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![Node](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)
-
----
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-grey)
+### GenAI & Ops
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 Agentic RAG System
+## 📦 Featured Projects
 
-**Tech:** Python, LangGraph, LLM, FastAPI, Streamlit
-
-* Built an **Agentic Retrieval-Augmented Generation system**
-* Dynamic tool routing across **vector DB, SQL, and web search**
-* Implemented **multi-hop reasoning and hybrid retrieval**
-* Added **failover architecture using OpenAI, Groq, OpenRouter**
-
----
-
-## 🧠 Fake Review Detection
-
-**Tech:** PyTorch, BERT, Flask, MERN
-
-* Fine-tuned **BERT model for fake review classification**
-* Achieved **94% validation accuracy**
-* Built **REST API for predictions**
-* Integrated **real-time web interface**
-
----
-
-## 🌐 Network Anomaly Detection
-
-**Tech:** Flask, Scikit-learn, React
-
-* Trained **Random Forest model on CICIDS 2017 dataset**
-* Achieved **96% classification accuracy**
-* Built **real-time traffic detection API**
-* Implemented preprocessing & feature engineering pipeline
+| Project | Description | Tech Stack |
+|------|-------------|-------------|
+| 🤖 Agentic RAG System | Developed an Agentic Retrieval-Augmented Generation system with dynamic tool routing across vector databases, SQL, and web search. Implemented multi-hop reasoning, hybrid retrieval, and failover architecture to ensure reliable multi-source question answering. | Python, LangGraph, LLM, FastAPI, Streamlit |
+| 🧠 Fake Review Detection | Built an NLP-based classification system using fine-tuned BERT to detect fake product reviews. Achieved 94% validation accuracy and deployed the model via a REST API with a web interface for real-time predictions. | PyTorch, BERT, Flask, MERN |
+| 🌐 Network Anomaly Detection | Developed a network intrusion detection system using Random Forest trained on the CICIDS 2017 dataset. Implemented preprocessing, feature engineering, and real-time traffic analysis through an API. | Flask, Scikit-learn, React |
 
 ---
 
