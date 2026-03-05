@@ -19,7 +19,7 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-![](https://komarev.com/ghpvc/?username=abhilashsurigi&label=Profile%20Views&color=blue&style=for-the-badge)
+<p align="center">![](https://komarev.com/ghpvc/?username=abhilashsurigi&label=Profile%20Views&color=blue&style=for-the-badge)</p>
 
 </p>
 
