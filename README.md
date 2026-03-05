@@ -29,6 +29,7 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 ## Technical Arsenal
 
 | **Domain** | **Stack** |
+|------|-------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Java](https://img.shields.io/badge/Java-red?logo=java) ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql) |
 
 | **AI / Deep Learning** |![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?logo=scikitlearn) ![NLP](https://img.shields.io/badge/NLP-green) |
