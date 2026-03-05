@@ -36,9 +36,7 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 ---
 
-# 🚀 Featured Projects
-
-## 📦 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |------|-------------|-------------|
