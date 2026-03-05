@@ -46,15 +46,6 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abhilashsurigi&theme=tokyonight" />
-
-</p>
-
----
 
 
 
