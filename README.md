@@ -7,7 +7,6 @@ Building intelligent systems using Machine Learning, LLMs, and scalable backend 
 
 ---
 
-## 🌐 Connect With Me
 
 <p align="center">
 
